@@ -14,7 +14,7 @@ Proudly coded on [Turbowarp](https://turbowarp.org/)!\
 The game is available to play here:\
 \
 [GameJolt](https://gamejolt.com/games/efm/995169) (Web, Desktop, Trophies, API Integration) **HIGHLY RECOMMENDED AND INTENDED EXPERIENCE**\
-[Itch.io](https://glitchdotsmh.itch.io/efm) (Web, Desktop)\
+[Itch.io](https://whosgalaxie.itch.io/efm) (Web, Desktop)\
 **Note: Game will auto-update if using either host's desktop apps!**
 
 ## Any inspirations?
