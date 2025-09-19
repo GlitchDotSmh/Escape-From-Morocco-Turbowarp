@@ -1,0 +1,111 @@
+-= Brought to you by =-
+
+GlitchDotSmh
+Team Reimagination
+Manny Hater Club
+
+-= Art =-
+Note: Loader artwork is credited on the top-left in the loading screen.
+
+- GlitchDotSmh -
+Programmer Art, Level Backgrounds, UI Design, Promo Art
+
+- mariofy -
+UI Art, Icons, Misc. Artwork
+
+- Hipix -
+Spritework
+
+-= Music =-
+!! MOST MUSIC IS PLACEHOLDER AND NOT ORIGINAL UNTIL FULL RELEASE. !!
+
+- Seezee -
+"Overworld" from Gumb's Welcoming (Level Music)
+
+- ROBLOX -
+"Old Roblox Theme" (Main Menu)
+
+- GlitchDotSmh -
+"Harvest (Bossa Nova Remix)" (Character Select)
+"Enormous Score" Official OST (Results Theme)
+
+- Terionic -
+"Runtime Operator" Official OST (Ceazar Results Jingle)
+
+- six impala -
+"Cocoa Pico Mix Instrumental" from Friday Night Funkin' (Credits Theme)
+
+- Starshy -
+"Cosomania 1-1" from The Freindly Fight! (Cosomania Level Theme)
+
+-= Code =-
+
+Running on TurboWarp by GarboMuffin
+
+- GlitchDotSmh -
+All of the game's code
+
+- Sharkpool -
+All custom extensions from his website as follows:
+( https://sharkpools-extensions.vercel.app/ )
+
+Better Comments
+Keys+ V2
+Tune Shark V3
+Dropdown Maker
+My Blocks +
+JSON & Array
+More Timers
+Advanced Messages
+Gamepad Extended
+Animations
+Speech Bubbles
+Script Control
+Popup Phoenix
+Variables Expanded
+
+- Turbowarp Extension Gallery -
+( https://extensions.turbowarp.org/ )
+
+Canvas Effects
+Tweening
+More Events
+Temporary Variables
+Runtime Options
+Game Jolt API
+Camera V2
+Looks+
+Clones+
+Stretch
+Lily's Toolbox
+Variable and list
+Animated Text
+Clipping & Blending
+
+-= Other Credits =-
+
+- Techy!Harcvuk -
+Playtesting
+
+- Verwex -
+Main Inspiration, Turbowarp Loader Art
+
+- Alex Meub -
+Windows 98 Icon Kit
+( https://win98icons.alexmeub.com/ )
+
+- Comp-3 Interactive -
+Windows 98 GUI Kit
+( https://comp3interactive.itch.io/retro-windows-gui )
+
+-= Special Thanks =-
+
+Seezee (Happy Birthday!)
+Luminous
+Terionic
+Verwex
+HeroEyad
+GarboMuffin
+Scratch Foundation
+
+-= Thank you for playing! =-
